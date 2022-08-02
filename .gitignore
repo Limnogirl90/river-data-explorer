@@ -1,5 +1,4 @@
 /node_modules/
-/public/build/
 .Todo.json
 yarn-error.log
 .-DS_Store
